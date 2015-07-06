@@ -3,13 +3,13 @@ These are all the plugins I have developed for Oxide to-date. All are released u
 
 ### Explanation of Folders
 * Abandoned
-    These are plugins that I have created and have either been made obsolete by other plugins (by other developers) or Rust itself. I'd suggest not using these.
+    - These are plugins that I have created and have either been made obsolete by other plugins (by other developers) or Rust itself. I'd suggest not using these.
 * Personal
-    These are my personal plugins that I use for a number of things. They likely won't be useful to you unless your a developer. Mostly they just generate lists for me for my wiki at http://wiki.rusthive.com/
+    - These are my personal plugins that I use for a number of things. They likely won't be useful to you unless your a developer. Mostly they just generate lists for me for my wiki at http://wiki.rusthive.com/
 * Published
-    These plugins are plugins that I have uploaded to the Oxide Resource list. It's always advised that you visit my plugin list here http://oxidemod.org/plugins/authors/waizujin.61644/ rather than using these as they may be unstable or untested. (Beta Versions)
+    - These plugins are plugins that I have uploaded to the Oxide Resource list. It's always advised that you visit my plugin list here http://oxidemod.org/plugins/authors/waizujin.61644/ rather than using these as they may be unstable or untested. (Beta Versions)
 * Un-Published
-    This is where I put tiny plugins I made for requests, my own servers, or just better or modified versions of existing plugins.
+    - This is where I put tiny plugins I made for requests, my own servers, or just better or modified versions of existing plugins.
 
 ### Using My Code
 These plugins are all yours to use and cannibalize. I ask that you do not upload these plugins anywhere without my permission, but you are welcome to do so as long as you keep the copyright and license intact. Contact me for permission if you need to, I'll most likely say yes, and I don't bite. :)
